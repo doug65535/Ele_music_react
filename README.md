@@ -12,3 +12,7 @@
 5.Redux code criterion: 1) every single module has its own reducer, combine them with combineReducer 2)deal Asynchronous request with redux-thunk, and also write in actionCreators 3)using redux directly with redux hooks instead of connect 
 
 6.Networking requests using customized Axios,all the requests will be set in a specific file
+
+GET STARTED
+yarn install
+yarn start
